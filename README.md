@@ -1,6 +1,6 @@
 # Product Calculator
 
-Calculates the product of two numbers.
+Calculates the product of three numbers.
 
 ## Description
 
